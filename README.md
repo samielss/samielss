@@ -16,4 +16,8 @@
 
 <img src="./github/assets/bar.png" width="100%" height="8px"/>
 
+## My Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,figma,vscode,git,github&theme=dark" />
+
 <div>
