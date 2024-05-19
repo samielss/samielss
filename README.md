@@ -18,6 +18,6 @@
 
 ## My Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,figma,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,grafana,nodejs,linux,mysql,nextjs,tailwind,figma,vscode,git,github&theme=dark" width="100%"/>
 
 <div>
